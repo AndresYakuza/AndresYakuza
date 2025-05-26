@@ -6,7 +6,10 @@
 🎬 Fan del cine y la música  
 💻 Desarrollador de software apasionado por la programación
 
-<img src="assets/portada_andres.png" alt="Portada de Andrés" width="100%" style="border-radius: 10px;"/>
+<p align="center">
+  <img src="assets/portada_andres.png" alt="Portada de Andrés" width="800" style="border-radius: 15px;">
+</p>
+
 
 ---
 
