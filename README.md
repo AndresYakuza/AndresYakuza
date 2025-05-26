@@ -7,7 +7,7 @@
 💻 Desarrollador de software apasionado por la programación
 
 <p align="center">
-  <img src="assets/portada_andres.png" alt="Portada de Andrés" width="700" style="border-radius: 15px;">
+  <img src="assets/andres.png" alt="Portada de Andrés" width="700" style="border-radius: 15px;">
 </p>
 
 
